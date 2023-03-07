@@ -20,6 +20,7 @@ if ucase(evt) = "ALT" then
    email = rs("email")
    curriculo = rs("curriculo")
    foto = rs("foto")
+   nascimento = rs("data_nascimento")
 
    bot        = "Alterar"
 else
